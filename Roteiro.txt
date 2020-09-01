@@ -1,0 +1,24 @@
+(X)  Criar projeto API{
+    - Criar pasta para o projeto
+    - Iniciar com: npm init -y
+    - Acrescentar o type: module no package.json
+}
+(X)  Instalar dependências {
+    - Instalar express mongoose: npm install express mongoose
+}
+(X)  Implementar o modelo com o Mongoose {
+    - Criação do modelo com Schema - arquivo studentModel.js
+}
+(X)  Implementar a rota Create {
+    - Conectar ao Mongoose
+    - Criar o POST no studentRouter.js
+}
+(X)  Implementar a rota Retrieve {
+    - Criar o GET no studentRouter.js
+}
+(X)  Implementar a rota Update {
+    - Criar o PATCH no studentRouter.js
+} 
+(X)  Implementar a rota Delete {
+    Criar o DELETE no studentRouter.js
+}
